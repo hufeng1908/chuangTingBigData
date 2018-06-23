@@ -1,0 +1,3 @@
+type=command
+command=sh /usr/local/chuangtingBigData/run_job.sh
+dependencies = Start
